@@ -1,0 +1,79 @@
+.App {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.BackgroundColor {
+  height: 150px;
+  margin-bottom: 35px;
+}
+
+.TextColor {
+  color: 'black';
+  font-weight: bold;
+  font-size: 65px;
+  text-transform: uppercase;
+  margin-top: 0px;
+  padding-top: 30px;
+}
+
+.Button {
+  color: white;
+  border: none;
+  padding: 25px 52px;
+  font-size: 45px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.Button:hover {
+  background-color: white !important;
+  color: black; 
+}
+
+.Icon {
+  font-size: 85px;
+  margin-right: 10px;
+}
+
+.Lifes {
+  margin-top: 45px;
+}
+
+.Message {
+  text-align: center;
+  font-size: 45px;
+}
+
+.Message button {
+  padding: 25px;
+  font-size: 35px;
+}
+
+.ScoreBox {
+  background-color: DodgerBlue;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  padding-top: 25px;
+  display: inline-block;
+  margin-right: 200px;
+}
+
+.Info {
+  margin-top: 25px;
+}
+
+.Timer {
+  background-color: MediumSeaGreen;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  padding-top: 25px;
+  display: inline-block;
+}
+
+.Author {
+  margin-top: 35px;
+}
