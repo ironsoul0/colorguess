@@ -2,7 +2,7 @@ import React from 'react';
 
 const Info = (props) => {
   return (
-    <div className="Info">
+    <div className="Information">
       <h2 className="ScoreBox">
         {props.score} / {props.attempts}
       </h2>
